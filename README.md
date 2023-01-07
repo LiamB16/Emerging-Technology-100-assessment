@@ -33,6 +33,9 @@ requirements
 # Quantum Computing
 In this section,
   * Learn what quantum computing is.
+  * Learn what the Deutsch Algorithm.
+  * Learn the difference between traditional computing and quantum computing.
+  * show code to demonstrate these ideas.
   * Learn the difference between quantum and traditional computing
   * show code to demonstrate these ideas.
   
