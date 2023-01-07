@@ -16,7 +16,6 @@ requirements
   
 #  HTTP
   In this section,
-  
   * Learn what HTTP is.
   * Learn what the difference is between HTTP and HTTPS.
   * Learn what are the HTTP status codes.
@@ -25,6 +24,10 @@ requirements
 # Computation
   In this section,
    * show code to demonstrate these ideas.
+   * Learn about Big 0 notation.
+   * Learn what a turing machine is.
+   * Learn how a turing machine is related to a quantum computer.
+   * 
 # Fast Fourier
   In this section,
   * Learn what are compllex numbers
@@ -36,7 +39,6 @@ In this section,
   * Learn what the Deutsch Algorithm.
   * Learn the difference between traditional computing and quantum computing.
   * show code to demonstrate these ideas.
-  * Learn the difference between quantum and traditional computing
-  * show code to demonstrate these ideas.
+  
   
  
