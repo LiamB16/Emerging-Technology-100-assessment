@@ -5,14 +5,20 @@ The purpose of this README is to explain the importance of HTTPS, Computation, f
 https://liamb16.github.io/Emerging-Technology-assessment/
 
 # How to set up on jupyter
-requirements
-* Anaconda3
-* Firefox
+Pre Requisites:
 
-1. create a new file and open it in the command line
-2. Use the command git clone "repositiory's name". Use the link on github to get the full name
-3. Move the file you cloned into "c:users/Your name".
-4. run jupyter in the background.
+•	Download Anaconda 3 at https://www.anaconda.com/products/distribution
+
+•	Download Firefox at https://www.mozilla.org/en-US/firefox/new/
+
+1. create a new folder and open it in the command line
+2. Use the command "git clone (repositiory's name)"
+3. Move the file you cloned into "c:users/Your name". 
+ <img src="READMEPics/Pic1.png">
+4. run jupyter in the background by going to the anaconda3 64bit folder and clicking "Jupyter Notebook". You should see this command line appear as shown below.
+  <img src="READMEPics/Pic2.png">
+5. FireFox will automatically open and you should see this page shown below
+ <img src="READMEPics/Pic3.png">
   
 #  HTTP
   In this section,
