@@ -11,7 +11,7 @@ requirements
 
 1. create a new file and open it in the command line
 2. Use the command git clone "repositiory's name". Use the link on github to get the full name
-3. Move the file you cloned into "c:users/<<Your name>>".
+3. Move the file you cloned into "c:users/Your name".
 4. run jupyter in the background.
   
 #  HTTP
